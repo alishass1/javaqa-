@@ -3,21 +3,3 @@
 *.iml
 out/
 
-# Compiled class files
-*.class
-
-# Build directories
-target/
-build/
-
-# Log files
-*.log
-
-# Package files
-*.jar
-*.war
-*.ear
-
-# OS files
-.DS_Store
-Thumbs.db
